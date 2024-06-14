@@ -1,2 +1,2 @@
 # Encryptix
-my task which provided by Encryptix
+my task which is provided by Encryptix
