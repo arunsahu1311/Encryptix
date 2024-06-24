@@ -1,2 +1,2 @@
 # Encryptix
-my task which is provided by Encryptix
+my project which is provided by Encryptix
